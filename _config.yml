@@ -1,0 +1,17 @@
+title: Embedded iPaaS
+description: This is the index of embedded iPaaS service and tooling repos being tracked
+  by the API Evangelist network.
+url: https://embedded-ipaas.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

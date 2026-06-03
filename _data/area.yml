@@ -1,0 +1,95 @@
+meta:
+  name: Embedded iPaaS
+  description: This is the index of embedded iPaaS service and tooling repos being
+    tracked by the API Evangelist network.
+  tags:
+  - Embedded iPaaS
+  - Integration
+  portal: null
+  github: null
+  repo: embedded-ipaas
+services_tools:
+- name: Alloy Automation
+  repo: https://github.com/api-evangelist/alloy-automation
+  apisio: https://providers.apis.io/providers/alloy-automation/
+- name: Ampersand
+  repo: https://github.com/api-evangelist/ampersand
+  apisio: https://providers.apis.io/providers/ampersand/
+- name: Apideck
+  repo: https://github.com/api-evangelist/apideck
+  apisio: https://providers.apis.io/providers/apideck/
+- name: Cloud Elements
+  repo: https://github.com/api-evangelist/cloud-elements
+  apisio: https://providers.apis.io/providers/cloud-elements/
+- name: Codat
+  repo: https://github.com/api-evangelist/codat
+  apisio: https://providers.apis.io/providers/codat/
+- name: Composio
+  repo: https://github.com/api-evangelist/composio
+  apisio: https://providers.apis.io/providers/composio/
+- name: Cyclr
+  repo: https://github.com/api-evangelist/cyclr
+  apisio: https://providers.apis.io/providers/cyclr/
+- name: Finverse
+  repo: https://github.com/api-evangelist/finverse
+  apisio: https://providers.apis.io/providers/finverse/
+- name: Fusebit
+  repo: https://github.com/api-evangelist/fusebit
+  apisio: https://providers.apis.io/providers/fusebit/
+- name: Hotglue
+  repo: https://github.com/api-evangelist/hotglue
+  apisio: https://providers.apis.io/providers/hotglue/
+- name: Integration.app
+  repo: https://github.com/api-evangelist/integration-app
+  apisio: https://providers.apis.io/providers/integration-app/
+- name: Integry
+  repo: https://github.com/api-evangelist/integry
+  apisio: https://providers.apis.io/providers/integry/
+- name: Knit
+  repo: https://github.com/api-evangelist/knit
+  apisio: https://providers.apis.io/providers/knit/
+- name: Kombo
+  repo: https://github.com/api-evangelist/kombo
+  apisio: https://providers.apis.io/providers/kombo/
+- name: Merge
+  repo: https://github.com/api-evangelist/merge
+  apisio: https://providers.apis.io/providers/merge/
+- name: Nango
+  repo: https://github.com/api-evangelist/nango
+  apisio: https://providers.apis.io/providers/nango/
+- name: Pandium
+  repo: https://github.com/api-evangelist/pandium
+  apisio: https://providers.apis.io/providers/pandium/
+- name: Paragon
+  repo: https://github.com/api-evangelist/paragon
+  apisio: https://providers.apis.io/providers/paragon/
+- name: Polytomic
+  repo: https://github.com/api-evangelist/polytomic
+  apisio: https://providers.apis.io/providers/polytomic/
+- name: Prismatic
+  repo: https://github.com/api-evangelist/prismatic
+  apisio: https://providers.apis.io/providers/prismatic/
+- name: Rutter
+  repo: https://github.com/api-evangelist/rutter
+  apisio: https://providers.apis.io/providers/rutter/
+- name: Stitch
+  repo: https://github.com/api-evangelist/stitch
+  apisio: https://providers.apis.io/providers/stitch/
+- name: Supaglue
+  repo: https://github.com/api-evangelist/supaglue
+  apisio: https://providers.apis.io/providers/supaglue/
+- name: Terapi
+  repo: https://github.com/api-evangelist/terapi
+  apisio: https://providers.apis.io/providers/terapi/
+- name: Tray.io
+  repo: https://github.com/api-evangelist/tray-io
+  apisio: https://providers.apis.io/providers/tray-io/
+- name: Unified.to
+  repo: https://github.com/api-evangelist/unified-to
+  apisio: https://providers.apis.io/providers/unified-to/
+- name: Vessel
+  repo: https://github.com/api-evangelist/vessel
+  apisio: https://providers.apis.io/providers/vessel/
+features: []
+use_cases: []
+integrations: []
