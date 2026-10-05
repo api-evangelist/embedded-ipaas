@@ -1,5 +1,6 @@
 aid: embedded-ipaas
 name: Embedded iPaaS
+kind: topic
 description: >-
   This is the index of embedded iPaaS service and tooling repos being tracked by
   the API Evangelist network.
